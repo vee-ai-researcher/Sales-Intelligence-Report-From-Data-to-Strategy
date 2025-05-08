@@ -2,9 +2,6 @@
 
 # **Sales Intelligence Report: From Data to Strategy**
 
-**Analyst:** Judith Chineze Onwuka
-**Submission Date:** 09/05/2025
-
 ---
 
 ## **1. Introduction**
